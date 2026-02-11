@@ -32,19 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats (Glass Style Look)
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaykhairnar2005&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykhairnar2005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -52,15 +39,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
-
-To enable this:
-
-1. Create a new repo named  
-   `YOUR_USERNAME/YOUR_USERNAME`
-
-2. Create folder:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jaykhairnar2005/jaykhairnar2005/output/github-contribution-grid-snake.svg" />
