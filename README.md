@@ -72,3 +72,26 @@ To enable this:
 <img src="https://media.tenor.com/R7DsESDMS-YAAAAi/yo-luffy.gif" width="400">
 </p>
 
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/jaykhairnar2005">
+<img src="https://img.shields.io/badge/GitHub-jaykhairnar2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jay_p_khairnar">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Jay Khairnar">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Jay Khairnar">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
