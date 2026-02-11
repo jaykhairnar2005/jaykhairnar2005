@@ -58,3 +58,8 @@ To enable this:
    `YOUR_USERNAME/YOUR_USERNAME`
 
 2. Create folder:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jaykhairnar2005/jaykhairnar2005/output/github-contribution-grid-snake.svg" />
+</p>
+
