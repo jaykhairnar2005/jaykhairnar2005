@@ -28,8 +28,8 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,postgres,firebase,git,github,vscode,postman" />
-
 </p>
+
 
 ---
 
