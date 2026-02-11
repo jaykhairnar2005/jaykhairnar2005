@@ -56,21 +56,22 @@
 
 <p align="center">
 
-<a href="https://github.com/jaykhairnar2005" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<a href="https://github.com/jaykhairnar2005">
+<img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40"/>
 </a>
 
-<a href="https://www.instagram.com/jay_p_khairnar" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+<a href="https://www.instagram.com/jay_p_khairnar">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jay-khairnar-689684271" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/jay-khairnar-689684271">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
-<a href="https://leetcode.com/JayKhairnar" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
+<a href="https://leetcode.com/JayKhairnar">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
 </a>
 
 </p>
+
 
