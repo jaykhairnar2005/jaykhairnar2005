@@ -73,11 +73,11 @@ A web application that analyzes resumes and identifies missing skills using AI t
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/jaykhairnar2005">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
 ---
 
-⭐ From [Jay Khairnar](https://github.com/YOUR_USERNAME)
+⭐ From [Jay Khairnar](https://github.com/jaykhairnar2005)
