@@ -56,20 +56,20 @@
 
 <p align="center">
 
-<a href="https://github.com/jaykhairnar2005">
-<img src="https://img.shields.io/badge/GitHub-jaykhairnar2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/jaykhairnar2005" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.instagram.com/jay_p_khairnar">
-<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/jay_p_khairnar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Jay Khairnar">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jay-khairnar-689684271" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://leetcode.com/Jay Khairnar">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/JayKhairnar" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
 </a>
 
 </p>
