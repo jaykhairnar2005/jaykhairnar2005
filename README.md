@@ -56,10 +56,6 @@
 
 <p align="center">
 
-<a href="https://github.com/jaykhairnar2005">
-<img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40"/>
-</a>
-
 <a href="https://www.instagram.com/jay_p_khairnar">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>
 </a>
