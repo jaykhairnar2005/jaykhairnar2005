@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year BE Information Technology  
+- 🎓 Final Year BE Information Technology  
 - 💻 Interested in AI & Web Development  
 - 🧠 Working on Skill Gap Analysis Project  
 - 🎬 Movies | 🏏 Cricket | ✈ Traveling | 🍥 Anime  
